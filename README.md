@@ -3,7 +3,7 @@
 ## Master Thesis Notebook
 
 This repository contains the main Jupiyter Notebook where the Thesis coding development was carried out and the Notebook containing the algorithms generalization performance.
-The Lamb Weston \ Meijer Legal Counseling department has authorised the distribution, visualization and storing of the coding materials as long as it concerns the grading process of the Thesis Project.
+The Lamb Weston \ Meijer Legal Counseling department has authorised the distribution, visualization and storing of the coding materials as long as it concerns the grading process of the Thesis Project and its eventual storage in the Tilburg University archives.
 Any other usage of these Notebooks, codes, plots or raw SCADA data volumes is forbidden by the current Lamb Weston / Meijer Data & Information Architecture policies.
 
 
