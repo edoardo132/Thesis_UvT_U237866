@@ -15,4 +15,6 @@ retains ownership of the data and code during and after the completion of
 this thesis. The author of this thesis acknowledges that they do not have
 any legal claim to this data. The data from this thesis is obtained from FactoryTalk® VantagePoint for Lamb Weston / Meijer SCADA applications bundle.
 
+Click below to watch a short presnetation of the Thesis Project:
 
+[![Watch the video](https://img.youtube.com/vi/8eJ-sqMRTJo/maxresdefault.jpg)](https://youtu.be/8eJ-sqMRTJo)
